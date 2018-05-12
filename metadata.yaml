@@ -1,0 +1,34 @@
+_repo: De-onderaardsche-reis-van-Klaas-KlimBehelzende-eene-nieuwe-beschrijving-van-den-aardkloot_41439
+_version: 0.1.0
+alternative_title: Nicolai Klimii iter subterraneum. Dutch
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holberg, Ludvig
+    aliases:
+    - Holberg, Baron Ludvig
+    - Holberg, Johan Ludvig
+    birthdate: 1684
+    deathdate: 1754
+    gutenberg_agent_id: '1863'
+    url: http://www.gutenberg.org/2009/agents/1863
+    wikipedia: http://en.wikipedia.org/wiki/Ludvig_Holberg
+description: ''
+gutenberg_issued: '2012-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41439'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+- !lcsh 'Utopias -- Early works to 1800'
+- !lcc 'PT'
+title: 'De onderaardsche reis van Klaas Klim
+
+  Behelzende eene nieuwe beschrijving van den aardkloot'
+url: http://www.gutenberg.org/ebooks/41439
